@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PROID:-//FRANCH Tech//
+N:;6;;;
+FN:6
+TEL;type=CELL;type=VOICE;type=pref:6
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+PROID:-//FRANCH Tech//
+N:;7;;;
+FN:7
+TEL;type=CELL;type=VOICE;type=pref:7
+END:VCARD
+
