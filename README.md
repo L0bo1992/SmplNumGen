@@ -1,0 +1,2 @@
+# SmplNumGen
+Generate IPN
